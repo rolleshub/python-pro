@@ -1,0 +1,24 @@
+
+nam= input("введите цифру от нуля до 9")
+if nam == "0":
+    print("ну скучно")
+elif nam =="1":
+    print("ну [jnz,s")
+elif nam =="2":
+    print("ну зачем?")
+elif nam =="3":
+    print("3-3=4-4=5-5=6-6")
+elif nam =="4":
+    print("ну [jnz,s")
+elif nam =="5":
+    print("ну зачем?")
+elif nam =="6":
+    print("3-3=4-4=5-5=6-6")
+elif nam =="7":
+    print("ну [jnz,s")
+elif nam =="8":
+    print("ну зачем?")
+elif nam =="9":
+    print("3-3=4-4=5-5=6-6")
+else:
+    print("от 0 до 9!!!")
